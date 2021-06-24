@@ -33,3 +33,5 @@ __pycache__/
 get-pip.py
 */.env
 .env
+
+web-traffic-monitor/config.json

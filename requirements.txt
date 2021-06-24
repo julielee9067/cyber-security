@@ -2,3 +2,4 @@ flask
 pre-commit
 httpagentparser
 pusher
+psycopg2-binary
